@@ -1,0 +1,2 @@
+no unload of project required while modifying csproj
+no manifest for class info, work on file system

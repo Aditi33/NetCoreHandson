@@ -1,0 +1,10 @@
+D:\Handson\NetCoreHelloWorld\CommandLine\bin\Debug\netcoreapp2.0\CommandLine.deps.json
+D:\Handson\NetCoreHelloWorld\CommandLine\bin\Debug\netcoreapp2.0\CommandLine.runtimeconfig.json
+D:\Handson\NetCoreHelloWorld\CommandLine\bin\Debug\netcoreapp2.0\CommandLine.runtimeconfig.dev.json
+D:\Handson\NetCoreHelloWorld\CommandLine\bin\Debug\netcoreapp2.0\CommandLine.dll
+D:\Handson\NetCoreHelloWorld\CommandLine\bin\Debug\netcoreapp2.0\CommandLine.pdb
+D:\Handson\NetCoreHelloWorld\CommandLine\obj\Debug\netcoreapp2.0\CommandLine.csproj.CoreCompileInputs.cache
+D:\Handson\NetCoreHelloWorld\CommandLine\obj\Debug\netcoreapp2.0\CommandLine.AssemblyInfoInputs.cache
+D:\Handson\NetCoreHelloWorld\CommandLine\obj\Debug\netcoreapp2.0\CommandLine.AssemblyInfo.cs
+D:\Handson\NetCoreHelloWorld\CommandLine\obj\Debug\netcoreapp2.0\CommandLine.dll
+D:\Handson\NetCoreHelloWorld\CommandLine\obj\Debug\netcoreapp2.0\CommandLine.pdb

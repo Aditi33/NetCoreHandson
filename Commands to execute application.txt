@@ -1,0 +1,11 @@
+1.Go to the location of your .dll and use the following command.
+dotnet NetCoreHelloWorld.dll
+
+2. Create new project using command line
+dotnet new web
+dotnet run
+Ctrl+C to stop
+
+3. Add new class
+echo nul > foo.cs
+del foo.cs

@@ -1,0 +1,11 @@
+D:\Handson\NetCoreHelloWorld\WebApplication\bin\Release\netcoreapp2.0\WebApplication.deps.json
+D:\Handson\NetCoreHelloWorld\WebApplication\bin\Release\netcoreapp2.0\WebApplication.runtimeconfig.json
+D:\Handson\NetCoreHelloWorld\WebApplication\bin\Release\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+D:\Handson\NetCoreHelloWorld\WebApplication\bin\Release\netcoreapp2.0\WebApplication.dll
+D:\Handson\NetCoreHelloWorld\WebApplication\bin\Release\netcoreapp2.0\WebApplication.pdb
+D:\Handson\NetCoreHelloWorld\WebApplication\obj\Release\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
+D:\Handson\NetCoreHelloWorld\WebApplication\obj\Release\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+D:\Handson\NetCoreHelloWorld\WebApplication\obj\Release\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+D:\Handson\NetCoreHelloWorld\WebApplication\obj\Release\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+D:\Handson\NetCoreHelloWorld\WebApplication\obj\Release\netcoreapp2.0\WebApplication.dll
+D:\Handson\NetCoreHelloWorld\WebApplication\obj\Release\netcoreapp2.0\WebApplication.pdb

@@ -1,0 +1,11 @@
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\bin\Release\netcoreapp2.0\NetCoreHelloWorld.deps.json
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\bin\Release\netcoreapp2.0\NetCoreHelloWorld.runtimeconfig.json
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\bin\Release\netcoreapp2.0\NetCoreHelloWorld.runtimeconfig.dev.json
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\bin\Release\netcoreapp2.0\NetCoreHelloWorld.dll
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\bin\Release\netcoreapp2.0\NetCoreHelloWorld.pdb
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\obj\Release\netcoreapp2.0\NetCoreHelloWorld.csprojResolveAssemblyReference.cache
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\obj\Release\netcoreapp2.0\NetCoreHelloWorld.csproj.CoreCompileInputs.cache
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\obj\Release\netcoreapp2.0\NetCoreHelloWorld.AssemblyInfoInputs.cache
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\obj\Release\netcoreapp2.0\NetCoreHelloWorld.AssemblyInfo.cs
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\obj\Release\netcoreapp2.0\NetCoreHelloWorld.dll
+D:\Handson\NetCoreHelloWorld\NetCoreHelloWorld\obj\Release\netcoreapp2.0\NetCoreHelloWorld.pdb
