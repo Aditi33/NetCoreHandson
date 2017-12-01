@@ -8,3 +8,4 @@ D:\Handson\NetCoreHelloWorld\WebApplication\obj\Debug\netcoreapp2.0\WebApplicati
 D:\Handson\NetCoreHelloWorld\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
 D:\Handson\NetCoreHelloWorld\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
 D:\Handson\NetCoreHelloWorld\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb
+D:\Handson\NetCoreHelloWorld\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
