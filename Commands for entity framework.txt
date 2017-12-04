@@ -1,0 +1,14 @@
+dotnet ef 
+
+dotnet ef migrations add --help
+
+
+dotnet ef migrations add -v
+
+
+
+dotnet ef database --help
+
+
+
+dotnet ef database update -v

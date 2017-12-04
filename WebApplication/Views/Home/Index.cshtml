@@ -1,0 +1,31 @@
+﻿@using System.ComponentModel.DataAnnotations.Schema
+@model WebApplication.ViewModels.Home.IndexModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+<div>@Model.CurrentMessage</div>
+<table>
+    @foreach (var restaurant in Model.Restaurants)
+    {
+
+        <tr>
+            <td>
+                @restaurant.Id
+            </td>
+            <td>
+                @restaurant.Name
+            </td>
+            <td>
+                @*<a href="/Home/Details/@restaurant.Id">About Restaurant</a>*@
+                @*@Html.ActionLink("Go", "Details",new{id= @restaurant.Id } )*@
+                <a asp-action="Details" asp-route-id ="@restaurant.Id">More Details</a>
+            </td>
+        </tr>
+    }
+</table>
+<a asp-action="Create">Add Restaurants</a>
+</body>
+</html>

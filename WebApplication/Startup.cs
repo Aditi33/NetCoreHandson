@@ -6,19 +6,32 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Routing;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using WebApplication.Data;
+using WebApplication.Services;
 
 namespace WebApplication
 {
     public class Startup
     {
+        private IConfiguration configuration;
+
+        public Startup(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+        }
+
         // This method gets called by the runtime. Use this method to add services to the container.
         // Use for dependency injection
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<IGreeter, Greeter>();
+            services.AddDbContext<WebApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("RestaurantContent")));
+            services.AddScoped<IRestaurantDataService, SQLRestaurantDataService>();
+            //services.AddSingleton<IRestaurantDataService, InMemoryRestaurantDataService>();
             services.AddMvc();
         }
 
@@ -94,7 +107,7 @@ namespace WebApplication
             // id is optional
             //routeBuilder.MapRoute("Default", "{controller}/{action}/{id?}");
 
-            routeBuilder.MapRoute("Default", "{controller=Home}/{action=Index}");
+            routeBuilder.MapRoute("Default", "{controller=Home}/{action=Index}/{id?}");
         }
     }
 }
